@@ -1,14 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
+    <title>Tags on Moin H Moti</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <description>Recent content in Tags on Moin H Moti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AAMAS</title>
+      <link>/tags/aamas/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/aamas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Theory</title>
+      <link>/tags/game-theory/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/game-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction Market</title>
+      <link>/tags/prediction-market/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/prediction-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>animation</title>
+      <link>/tags/animation/</link>
+      <pubDate>Mon, 18 Mar 2019 01:28:20 +0530</pubDate>
+      
+      <guid>/tags/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial-intelligence</title>
+      <link>/tags/artificial-intelligence/</link>
+      <pubDate>Mon, 18 Mar 2019 01:07:14 +0530</pubDate>
+      
+      <guid>/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>/tags/bash/</link>
+      <pubDate>Mon, 18 Mar 2019 01:25:37 +0530</pubDate>
+      
+      <guid>/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-networks</title>
+      <link>/tags/computer-networks/</link>
+      <pubDate>Mon, 18 Mar 2019 01:27:13 +0530</pubDate>
+      
+      <guid>/tags/computer-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game-theory</title>
+      <link>/tags/game-theory/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/game-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operating-systems</title>
+      <link>/tags/operating-systems/</link>
+      <pubDate>Mon, 18 Mar 2019 01:25:37 +0530</pubDate>
+      
+      <guid>/tags/operating-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/tags/python/</link>
+      <pubDate>Mon, 18 Mar 2019 01:30:03 +0530</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unity</title>
+      <link>/tags/unity/</link>
+      <pubDate>Mon, 18 Mar 2019 01:28:20 +0530</pubDate>
+      
+      <guid>/tags/unity/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

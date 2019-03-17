@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>animation on Moin H Moti</title>
+    <link>/tags/animation/</link>
+    <description>Recent content in animation on Moin H Moti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2019 01:28:20 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gift Hunt</title>
+      <link>/project/gift-hunt/</link>
+      <pubDate>Mon, 18 Mar 2019 01:28:20 +0530</pubDate>
+      
+      <guid>/project/gift-hunt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

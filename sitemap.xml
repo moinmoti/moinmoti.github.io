@@ -4,6 +4,62 @@
     
     <url>
     
+      <loc>/project/block-hole/</loc>
+      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/gift-hunt/</loc>
+      <lastmod>2019-03-18T01:28:20+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/proxy-server/</loc>
+      <lastmod>2019-03-18T01:27:13+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/clash/</loc>
+      <lastmod>2019-03-18T01:25:37+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/correlated-equilibria-finder/</loc>
+      <lastmod>2019-03-18T01:20:10+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/ultimate_tictactoe/</loc>
+      <lastmod>2019-03-18T01:07:14+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/ppsn/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
     
@@ -11,7 +67,17 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>/publication_types/1/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/aamas/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -43,6 +109,33 @@
     
     <url>
     
+      <loc>/tags/game-theory/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/moin-h-moti/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/</loc>
     </url>
     
@@ -50,7 +143,26 @@
     
     <url>
     
+      <loc>/tags/prediction-market/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -59,6 +171,7 @@
     <url>
     
       <loc>/publication/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
     </url>
     
   
@@ -72,7 +185,26 @@
     
     <url>
     
+      <loc>/authors/sankarshan-damle/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sujar-gujar/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -81,6 +213,78 @@
     <url>
     
       <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/animation/</loc>
+      <lastmod>2019-03-18T01:28:20+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/artificial-intelligence/</loc>
+      <lastmod>2019-03-18T01:07:14+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/bash/</loc>
+      <lastmod>2019-03-18T01:25:37+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/computer-networks/</loc>
+      <lastmod>2019-03-18T01:27:13+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/game-theory/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/operating-systems/</loc>
+      <lastmod>2019-03-18T01:25:37+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/python/</loc>
+      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/unity/</loc>
+      <lastmod>2019-03-18T01:28:20+05:30</lastmod>
       <priority>0</priority>
     </url>
     

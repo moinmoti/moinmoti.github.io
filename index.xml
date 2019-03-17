@@ -1,12 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Moin H Moti on Moin H Moti</title>
     <link>/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in Moin H Moti on Moin H Moti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2019 01:30:03 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Block in the Hole</title>
+      <link>/project/block-hole/</link>
+      <pubDate>Mon, 18 Mar 2019 01:30:03 +0530</pubDate>
+      
+      <guid>/project/block-hole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gift Hunt</title>
+      <link>/project/gift-hunt/</link>
+      <pubDate>Mon, 18 Mar 2019 01:28:20 +0530</pubDate>
+      
+      <guid>/project/gift-hunt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proxy Server</title>
+      <link>/project/proxy-server/</link>
+      <pubDate>Mon, 18 Mar 2019 01:27:13 +0530</pubDate>
+      
+      <guid>/project/proxy-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clash</title>
+      <link>/project/clash/</link>
+      <pubDate>Mon, 18 Mar 2019 01:25:37 +0530</pubDate>
+      
+      <guid>/project/clash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlated Equilibria Finder</title>
+      <link>/project/correlated-equilibria-finder/</link>
+      <pubDate>Mon, 18 Mar 2019 01:20:10 +0530</pubDate>
+      
+      <guid>/project/correlated-equilibria-finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultimate Tic-Tac-Toe</title>
+      <link>/project/ultimate_tictactoe/</link>
+      <pubDate>Mon, 18 Mar 2019 01:07:14 +0530</pubDate>
+      
+      <guid>/project/ultimate_tictactoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregating Citizen Preferences for Public Projects Through Civic Crowdfunding</title>
+      <link>/publication/ppsn/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/publication/ppsn/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
