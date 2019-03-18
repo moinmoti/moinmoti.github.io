@@ -115,14 +115,13 @@
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Moin H Moti">
   <meta property="og:url" content="/project/block-hole/">
   <meta property="og:title" content="Block in the Hole | Moin H Moti">
-  <meta property="og:description" content="A 3D game similar to BLOXORG with multiple levels and soundtrack"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:description" content="A 3D game similar to BLOXORG with multiple levels and soundtrack"><meta property="og:image" content="/project/block-hole/featured.jpg">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-03-18T01:30:03&#43;05:30">
@@ -153,7 +152,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
         
       </div>
 
@@ -273,6 +273,10 @@
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
 
         
 
@@ -304,18 +308,167 @@
 
 
 
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/project/block-hole/featured_hu59782a004235ac85498a5897e8979173_30029_800x0_resize_q90_lanczos.jpg');"></div>
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">Block in the Hole</h1>
+
+        
+
+        
+
+
+
+<meta content="2019-03-18 01:30:03 &#43;0530 IST" itemprop="datePublished">
+<meta content="2019-03-18 01:30:03 &#43;0530 IST" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Mar 18, 2019</time>
+  </span>
+  
+
+  
+
   
 
   
   
+
   
-<div class="article-container pt-3">
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  <a class="btn btn-outline-primary my-1" href="https://gitlab.com/moinmoti/block-in-the-hole" target="_blank" rel="noopener">Go to Project Site</a>
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Block%20in%20the%20Hole&amp;url=%2fproject%2fblock-hole%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fproject%2fblock-hole%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fproject%2fblock-hole%2f&amp;title=Block%20in%20the%20Hole"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fproject%2fblock-hole%2f&amp;title=Block%20in%20the%20Hole"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Block%20in%20the%20Hole&amp;body=%2fproject%2fblock-hole%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/project/block-hole/featured_hu59782a004235ac85498a5897e8979173_30029_680x500_fill_q90_lanczos_smart1.jpg" itemprop="image" alt="">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
   <h1 itemprop="name">Block in the Hole</h1>
 
   
 
   
-    
 
 
 
@@ -392,7 +545,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -443,7 +596,6 @@
 </div>
 
 
-  
 </div>
 
 
@@ -673,13 +825,45 @@
     
 
     
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
 
     
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
     
 
     
@@ -697,7 +881,7 @@
     
     
     
-    <script src="/js/academic.min.76a41a243fcea75defe7d35a07d3aaa3.js"></script>
+    <script src="/js/academic.min.d7381f2d79e6271d4da28f474f49096c.js"></script>
 
   </body>
 </html>
