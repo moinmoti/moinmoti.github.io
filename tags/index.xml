@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Moin H Moti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2019 01:30:03 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 16:13:01 +0530</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IJCAI</title>
+      <link>/tags/ijcai/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/tags/ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Markets</title>
+      <link>/tags/information-markets/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/tags/information-markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism Design</title>
+      <link>/tags/mechanism-design/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/tags/mechanism-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game-theory</title>
+      <link>/tags/game-theory/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/tags/game-theory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>python</title>
@@ -62,15 +98,6 @@
       <pubDate>Mon, 18 Mar 2019 01:25:37 +0530</pubDate>
       
       <guid>/tags/operating-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>game-theory</title>
-      <link>/tags/game-theory/</link>
-      <pubDate>Mon, 18 Mar 2019 01:20:10 +0530</pubDate>
-      
-      <guid>/tags/game-theory/</guid>
       <description></description>
     </item>
     
