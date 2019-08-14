@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
@@ -6,6 +5,42 @@
     
       <loc>/project/block-hole/</loc>
       <lastmod>2019-03-18T01:30:03+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/python/</loc>
+      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -20,8 +55,35 @@
     
     <url>
     
+      <loc>/tags/animation/</loc>
+      <lastmod>2019-03-18T01:28:20+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/unity/</loc>
+      <lastmod>2019-03-18T01:28:20+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/proxy-server/</loc>
       <lastmod>2019-03-18T01:27:13+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/computer-networks/</loc>
+      <lastmod>2019-03-18T01:27:13+05:30</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -36,8 +98,35 @@
     
     <url>
     
+      <loc>/tags/bash/</loc>
+      <lastmod>2019-03-18T01:25:37+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/operating-systems/</loc>
+      <lastmod>2019-03-18T01:25:37+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/correlated-equilibria-finder/</loc>
       <lastmod>2019-03-18T01:20:10+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/game-theory/</loc>
+      <lastmod>2019-03-18T01:20:10+05:30</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -52,15 +141,9 @@
     
     <url>
     
-      <loc>/publication/ppsn/</loc>
-      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/author/admin/</loc>
+      <loc>/tags/artificial-intelligence/</loc>
+      <lastmod>2019-03-18T01:07:14+05:30</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -85,8 +168,8 @@
     
     <url>
     
-      <loc>/author/</loc>
-      <priority>0</priority>
+      <loc>/publication/ppsn/</loc>
+      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
     </url>
     
   
@@ -94,32 +177,7 @@
     <url>
     
       <loc>/authors/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/game-theory/</loc>
       <lastmod>2019-01-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -136,24 +194,8 @@
     
     <url>
     
-      <loc>/post/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/prediction-market/</loc>
       <lastmod>2019-01-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -178,13 +220,6 @@
     
     <url>
     
-      <loc>/talk/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/authors/sankarshan-damle/</loc>
       <lastmod>2019-01-23T00:00:00+05:30</lastmod>
       <priority>0</priority>
@@ -203,9 +238,37 @@
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
+      <loc>/author/admin/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
     </url>
     
   
@@ -213,78 +276,6 @@
     <url>
     
       <loc>/authors/admin/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/animation/</loc>
-      <lastmod>2019-03-18T01:28:20+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/artificial-intelligence/</loc>
-      <lastmod>2019-03-18T01:07:14+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/bash/</loc>
-      <lastmod>2019-03-18T01:25:37+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/computer-networks/</loc>
-      <lastmod>2019-03-18T01:27:13+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/game-theory/</loc>
-      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/operating-systems/</loc>
-      <lastmod>2019-03-18T01:25:37+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/python/</loc>
-      <lastmod>2019-03-18T01:30:03+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/unity/</loc>
-      <lastmod>2019-03-18T01:28:20+05:30</lastmod>
       <priority>0</priority>
     </url>
     

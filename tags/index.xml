@@ -6,35 +6,17 @@
     <description>Recent content in Tags on Moin H Moti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 01:30:03 +0530</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>AAMAS</title>
-      <link>/tags/aamas/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      <title>python</title>
+      <link>/tags/python/</link>
+      <pubDate>Mon, 18 Mar 2019 01:30:03 +0530</pubDate>
       
-      <guid>/tags/aamas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game Theory</title>
-      <link>/tags/game-theory/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>/tags/game-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction Market</title>
-      <link>/tags/prediction-market/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>/tags/prediction-market/</guid>
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
@@ -48,20 +30,11 @@
     </item>
     
     <item>
-      <title>artificial-intelligence</title>
-      <link>/tags/artificial-intelligence/</link>
-      <pubDate>Mon, 18 Mar 2019 01:07:14 +0530</pubDate>
+      <title>unity</title>
+      <link>/tags/unity/</link>
+      <pubDate>Mon, 18 Mar 2019 01:28:20 +0530</pubDate>
       
-      <guid>/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bash</title>
-      <link>/tags/bash/</link>
-      <pubDate>Mon, 18 Mar 2019 01:25:37 +0530</pubDate>
-      
-      <guid>/tags/bash/</guid>
+      <guid>/tags/unity/</guid>
       <description></description>
     </item>
     
@@ -75,11 +48,11 @@
     </item>
     
     <item>
-      <title>game-theory</title>
-      <link>/tags/game-theory/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      <title>bash</title>
+      <link>/tags/bash/</link>
+      <pubDate>Mon, 18 Mar 2019 01:25:37 +0530</pubDate>
       
-      <guid>/tags/game-theory/</guid>
+      <guid>/tags/bash/</guid>
       <description></description>
     </item>
     
@@ -93,20 +66,38 @@
     </item>
     
     <item>
-      <title>python</title>
-      <link>/tags/python/</link>
-      <pubDate>Mon, 18 Mar 2019 01:30:03 +0530</pubDate>
+      <title>game-theory</title>
+      <link>/tags/game-theory/</link>
+      <pubDate>Mon, 18 Mar 2019 01:20:10 +0530</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>/tags/game-theory/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>unity</title>
-      <link>/tags/unity/</link>
-      <pubDate>Mon, 18 Mar 2019 01:28:20 +0530</pubDate>
+      <title>artificial-intelligence</title>
+      <link>/tags/artificial-intelligence/</link>
+      <pubDate>Mon, 18 Mar 2019 01:07:14 +0530</pubDate>
       
-      <guid>/tags/unity/</guid>
+      <guid>/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAMAS</title>
+      <link>/tags/aamas/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/aamas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction Market</title>
+      <link>/tags/prediction-market/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/prediction-market/</guid>
       <description></description>
     </item>
     
