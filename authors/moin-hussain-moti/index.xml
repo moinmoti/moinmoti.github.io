@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moin Hussain Moti on Moin H Moti</title>
+    <link>/authors/moin-hussain-moti/</link>
+    <description>Recent content in Moin Hussain Moti on Moin H Moti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 16:13:01 +0530</lastBuildDate>
+    
+	<atom:link href="/authors/moin-hussain-moti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Civic Crowdfunding for Agents with Negative Valuations and Agents with Asymmetric Beliefs</title>
+      <link>/publication/ppsn_ijcai/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/publication/ppsn_ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FaRM: Fair Reward Mechanism for Information Aggregating in Spontaneous Localized Settings</title>
+      <link>/publication/farm/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/publication/farm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregating Citizen Preferences for Public Projects Through Civic Crowdfunding</title>
+      <link>/publication/ppsn_aamas/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/publication/ppsn_aamas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

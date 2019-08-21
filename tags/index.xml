@@ -12,20 +12,47 @@
     
     
     <item>
+      <title>Auctions</title>
+      <link>/tags/auctions/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/tags/auctions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdfunding</title>
+      <link>/tags/crowdfunding/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/tags/crowdfunding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsensing</title>
+      <link>/tags/crowdsensing/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/tags/crowdsensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game-theory</title>
+      <link>/tags/game-theory/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/tags/game-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IJCAI</title>
       <link>/tags/ijcai/</link>
       <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
       
       <guid>/tags/ijcai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Information Markets</title>
-      <link>/tags/information-markets/</link>
-      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
-      
-      <guid>/tags/information-markets/</guid>
       <description></description>
     </item>
     
@@ -39,11 +66,20 @@
     </item>
     
     <item>
-      <title>game-theory</title>
-      <link>/tags/game-theory/</link>
+      <title>Noncooperative Games</title>
+      <link>/tags/noncooperative-games/</link>
       <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
       
-      <guid>/tags/game-theory/</guid>
+      <guid>/tags/noncooperative-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reputations Scores</title>
+      <link>/tags/reputations-scores/</link>
+      <pubDate>Wed, 14 Aug 2019 16:13:01 +0530</pubDate>
+      
+      <guid>/tags/reputations-scores/</guid>
       <description></description>
     </item>
     
@@ -107,24 +143,6 @@
       <pubDate>Mon, 18 Mar 2019 01:07:14 +0530</pubDate>
       
       <guid>/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AAMAS</title>
-      <link>/tags/aamas/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>/tags/aamas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction Market</title>
-      <link>/tags/prediction-market/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>/tags/prediction-market/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,14 @@
     
       <loc>/publication_types/1/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/auctions/</loc>
+      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
     </url>
     
   
@@ -14,7 +21,30 @@
     
       <loc>/authors/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/ppsn_ijcai/</loc>
+      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/crowdfunding/</loc>
+      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/crowdsensing/</loc>
+      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
     </url>
     
   
@@ -23,7 +53,6 @@
     
       <loc>/authors/dimitris-chatzopoulos/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -38,18 +67,16 @@
     
     <url>
     
-      <loc>/tags/ijcai/</loc>
+      <loc>/tags/game-theory/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/information-markets/</loc>
+      <loc>/tags/ijcai/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -58,16 +85,6 @@
     
       <loc>/tags/mechanism-design/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/moin-h-moti/</loc>
-      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -76,7 +93,22 @@
     
       <loc>/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/moin-hussain-moti/</loc>
+      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/noncooperative-games/</loc>
+      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
     </url>
     
   
@@ -85,7 +117,14 @@
     
       <loc>/authors/pan-hui/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/praphul-chandra/</loc>
+      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
     </url>
     
   
@@ -94,7 +133,6 @@
     
       <loc>/publication_types/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -109,9 +147,24 @@
     
     <url>
     
+      <loc>/tags/reputations-scores/</loc>
+      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sankarshan-damle/</loc>
+      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/sujar-gujar/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -120,16 +173,6 @@
     
       <loc>/tags/</loc>
       <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/game-theory/</loc>
-      <lastmod>2019-08-14T16:13:01+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -146,7 +189,6 @@
     
       <loc>/project/</loc>
       <lastmod>2019-03-18T01:30:03+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -155,7 +197,14 @@
     
       <loc>/tags/python/</loc>
       <lastmod>2019-03-18T01:30:03+05:30</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/animation/</loc>
+      <lastmod>2019-03-18T01:28:20+05:30</lastmod>
     </url>
     
   
@@ -170,18 +219,16 @@
     
     <url>
     
-      <loc>/tags/animation/</loc>
+      <loc>/tags/unity/</loc>
       <lastmod>2019-03-18T01:28:20+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/unity/</loc>
-      <lastmod>2019-03-18T01:28:20+05:30</lastmod>
-      <priority>0</priority>
+      <loc>/tags/computer-networks/</loc>
+      <lastmod>2019-03-18T01:27:13+05:30</lastmod>
     </url>
     
   
@@ -196,9 +243,8 @@
     
     <url>
     
-      <loc>/tags/computer-networks/</loc>
-      <lastmod>2019-03-18T01:27:13+05:30</lastmod>
-      <priority>0</priority>
+      <loc>/tags/bash/</loc>
+      <lastmod>2019-03-18T01:25:37+05:30</lastmod>
     </url>
     
   
@@ -213,18 +259,8 @@
     
     <url>
     
-      <loc>/tags/bash/</loc>
-      <lastmod>2019-03-18T01:25:37+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/operating-systems/</loc>
       <lastmod>2019-03-18T01:25:37+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -239,6 +275,14 @@
     
     <url>
     
+      <loc>/tags/artificial-intelligence/</loc>
+      <lastmod>2019-03-18T01:07:14+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/ultimate_tictactoe/</loc>
       <lastmod>2019-03-18T01:07:14+05:30</lastmod>
     </url>
@@ -247,44 +291,8 @@
     
     <url>
     
-      <loc>/tags/artificial-intelligence/</loc>
-      <lastmod>2019-03-18T01:07:14+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/aamas/</loc>
+      <loc>/publication/ppsn_aamas/</loc>
       <lastmod>2019-01-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/ppsn/</loc>
-      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/prediction-market/</loc>
-      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/sankarshan-damle/</loc>
-      <lastmod>2019-01-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -299,7 +307,6 @@
     <url>
     
       <loc>/author/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -307,7 +314,6 @@
     <url>
     
       <loc>/categories/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -322,14 +328,6 @@
     <url>
     
       <loc>/talk/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/admin/</loc>
-      <priority>0</priority>
     </url>
     
   
